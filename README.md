@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 💻 I’m currently working a computer science student at the University of South Florida
+- 🌱 I’m currently interested in machine learning and artifical intelligence 
+- 📫 How to reach me: yhle@usf.edu | yenhle.12@gmail.com
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: I have a twin sister who also major in computer science
 
 <!--
 **yenhle/yenhle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
