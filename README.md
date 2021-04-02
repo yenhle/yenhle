@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 💻 I’m currently working a computer science student at the University of South Florida
+- 💻 I’m currently studying a computer science student at the University of South Florida
 - 🌱 I’m currently interested in machine learning and artifical intelligence 
 - 📫 How to reach me: yhle@usf.edu | yenhle.12@gmail.com
 - 😄 Pronouns: she/her/hers
